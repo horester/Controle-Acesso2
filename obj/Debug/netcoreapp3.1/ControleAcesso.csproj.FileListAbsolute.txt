@@ -1,0 +1,700 @@
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\ControleAcesso.exe
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\ControleAcesso.deps.json
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\ControleAcesso.runtimeconfig.json
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\ControleAcesso.runtimeconfig.dev.json
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\ControleAcesso.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\ControleAcesso.pdb
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\ControleAcesso.Views.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\ControleAcesso.Views.pdb
+C:\Users\hores\source\repos\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.csprojAssemblyReference.cache
+C:\Users\hores\source\repos\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.AssemblyInfoInputs.cache
+C:\Users\hores\source\repos\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.AssemblyInfo.cs
+C:\Users\hores\source\repos\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.RazorAssemblyInfo.cache
+C:\Users\hores\source\repos\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.RazorAssemblyInfo.cs
+C:\Users\hores\source\repos\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.TagHelpers.input.cache
+C:\Users\hores\source\repos\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.TagHelpers.output.cache
+C:\Users\hores\source\repos\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.RazorCoreGenerate.cache
+C:\Users\hores\source\repos\ControleAcesso\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\hores\source\repos\ControleAcesso\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\hores\source\repos\ControleAcesso\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\hores\source\repos\ControleAcesso\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\hores\source\repos\ControleAcesso\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\hores\source\repos\ControleAcesso\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\hores\source\repos\ControleAcesso\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\hores\source\repos\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.RazorTargetAssemblyInfo.cache
+C:\Users\hores\source\repos\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.RazorTargetAssemblyInfo.cs
+C:\Users\hores\source\repos\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.Views.pdb
+C:\Users\hores\source\repos\ControleAcesso\obj\Debug\netcoreapp3.1\staticwebassets\ControleAcesso.StaticWebAssets.Manifest.cache
+C:\Users\hores\source\repos\ControleAcesso\obj\Debug\netcoreapp3.1\staticwebassets\ControleAcesso.StaticWebAssets.xml
+C:\Users\hores\source\repos\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.dll
+C:\Users\hores\source\repos\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.pdb
+C:\Users\hores\source\repos\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.genruntimeconfig.cache
+C:\Users\hores\source\repos\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.csproj.CopyComplete
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hores\source\repos\ControleAcesso\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hores\source\repos\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.csproj.CoreCompileInputs.cache
+C:\Users\hores\source\repos\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hores\source\repos\ControleAcesso\obj\Debug\netcoreapp3.1\Razor\Views\visitantes\Create.cshtml.g.cs
+C:\Users\hores\source\repos\ControleAcesso\obj\Debug\netcoreapp3.1\Razor\Views\visitantes\Delete.cshtml.g.cs
+C:\Users\hores\source\repos\ControleAcesso\obj\Debug\netcoreapp3.1\Razor\Views\visitantes\Details.cshtml.g.cs
+C:\Users\hores\source\repos\ControleAcesso\obj\Debug\netcoreapp3.1\Razor\Views\visitantes\Edit.cshtml.g.cs
+C:\Users\hores\source\repos\ControleAcesso\obj\Debug\netcoreapp3.1\Razor\Views\visitantes\Index.cshtml.g.cs
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\ControleAcesso.exe
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\ControleAcesso.deps.json
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\ControleAcesso.runtimeconfig.json
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\ControleAcesso.runtimeconfig.dev.json
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\ControleAcesso.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\ControleAcesso.pdb
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\ControleAcesso.Views.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\ControleAcesso.Views.pdb
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.csprojAssemblyReference.cache
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.AssemblyInfoInputs.cache
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.AssemblyInfo.cs
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.csproj.CoreCompileInputs.cache
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.RazorAssemblyInfo.cache
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.RazorAssemblyInfo.cs
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\obj\Debug\netcoreapp3.1\staticwebassets\ControleAcesso.StaticWebAssets.Manifest.cache
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\obj\Debug\netcoreapp3.1\staticwebassets\ControleAcesso.StaticWebAssets.xml
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\obj\Debug\netcoreapp3.1\scopedcss\bundle\ControleAcesso.styles.css
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.TagHelpers.input.cache
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.TagHelpers.output.cache
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.RazorCoreGenerate.cache
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\obj\Debug\netcoreapp3.1\Razor\Views\visitantes\Create.cshtml.g.cs
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\obj\Debug\netcoreapp3.1\Razor\Views\visitantes\Delete.cshtml.g.cs
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\obj\Debug\netcoreapp3.1\Razor\Views\visitantes\Details.cshtml.g.cs
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\obj\Debug\netcoreapp3.1\Razor\Views\visitantes\Edit.cshtml.g.cs
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\obj\Debug\netcoreapp3.1\Razor\Views\visitantes\Index.cshtml.g.cs
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.RazorTargetAssemblyInfo.cache
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.RazorTargetAssemblyInfo.cs
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.Views.pdb
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.csproj.CopyComplete
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.dll
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.pdb
+C:\Users\hores\OneDrive\Área de Trabalho\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.genruntimeconfig.cache
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\ControleAcesso.exe
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\ControleAcesso.deps.json
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\ControleAcesso.runtimeconfig.json
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\ControleAcesso.runtimeconfig.dev.json
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\ControleAcesso.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\ControleAcesso.pdb
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\ControleAcesso.Views.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\ControleAcesso.Views.pdb
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.csprojAssemblyReference.cache
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.AssemblyInfoInputs.cache
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.AssemblyInfo.cs
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.RazorAssemblyInfo.cache
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.RazorAssemblyInfo.cs
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\obj\Debug\netcoreapp3.1\staticwebassets\ControleAcesso.StaticWebAssets.Manifest.cache
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\obj\Debug\netcoreapp3.1\staticwebassets\ControleAcesso.StaticWebAssets.xml
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\obj\Debug\netcoreapp3.1\scopedcss\bundle\ControleAcesso.styles.css
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.TagHelpers.input.cache
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.TagHelpers.output.cache
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.RazorCoreGenerate.cache
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\obj\Debug\netcoreapp3.1\Razor\Views\visitantes\Create.cshtml.g.cs
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\obj\Debug\netcoreapp3.1\Razor\Views\visitantes\Delete.cshtml.g.cs
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\obj\Debug\netcoreapp3.1\Razor\Views\visitantes\Details.cshtml.g.cs
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\obj\Debug\netcoreapp3.1\Razor\Views\visitantes\Edit.cshtml.g.cs
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\obj\Debug\netcoreapp3.1\Razor\Views\visitantes\Index.cshtml.g.cs
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.RazorTargetAssemblyInfo.cache
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.RazorTargetAssemblyInfo.cs
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.Views.pdb
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.csproj.CopyComplete
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.dll
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.pdb
+C:\Users\rodrigo.costa\Downloads\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.genruntimeconfig.cache
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\ControleAcesso.exe
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\ControleAcesso.deps.json
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\ControleAcesso.runtimeconfig.json
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\ControleAcesso.runtimeconfig.dev.json
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\ControleAcesso.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\ControleAcesso.pdb
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\ControleAcesso.Views.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\ControleAcesso.Views.pdb
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.csprojAssemblyReference.cache
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.AssemblyInfoInputs.cache
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.AssemblyInfo.cs
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.csproj.CoreCompileInputs.cache
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.RazorAssemblyInfo.cache
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.RazorAssemblyInfo.cs
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\obj\Debug\netcoreapp3.1\staticwebassets\ControleAcesso.StaticWebAssets.Manifest.cache
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\obj\Debug\netcoreapp3.1\staticwebassets\ControleAcesso.StaticWebAssets.xml
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\obj\Debug\netcoreapp3.1\scopedcss\bundle\ControleAcesso.styles.css
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.TagHelpers.input.cache
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.TagHelpers.output.cache
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.RazorCoreGenerate.cache
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\obj\Debug\netcoreapp3.1\Razor\Views\visitantes\Create.cshtml.g.cs
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\obj\Debug\netcoreapp3.1\Razor\Views\visitantes\Delete.cshtml.g.cs
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\obj\Debug\netcoreapp3.1\Razor\Views\visitantes\Details.cshtml.g.cs
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\obj\Debug\netcoreapp3.1\Razor\Views\visitantes\Edit.cshtml.g.cs
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\obj\Debug\netcoreapp3.1\Razor\Views\visitantes\Index.cshtml.g.cs
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.RazorTargetAssemblyInfo.cache
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.RazorTargetAssemblyInfo.cs
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.Views.pdb
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.csproj.CopyComplete
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.dll
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.pdb
+C:\Users\hores\OneDrive\Área de Trabalho\Rodrigo costa\busca ControleAcesso\ControleAcesso\obj\Debug\netcoreapp3.1\ControleAcesso.genruntimeconfig.cache
